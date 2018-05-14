@@ -1,9 +1,6 @@
 # Face-Detection
 
-Wondering !
+Face Detection is one of the most intresting applications of deep learning.
 
-how a camera is able to detect a face?
+* OpenCV - Haar Cascade
 
-How facebook is detecting faces in images you upload?
-
-Now i have the solutions for these questions :)
